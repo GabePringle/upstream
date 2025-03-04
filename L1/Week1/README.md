@@ -1,64 +1,55 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Gabriel Pringle  
+gpringle@smu.edu 
+Level 1
 
 ## 1. Background in Quantitative Finance
 
 *In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
-
-*Delete these instructions and write 100-150 words*
+- Took CSA in high school
+- Helped create a model that calculates your portfolio's Sharpe ratio given stocks and a date range
+- I enjoy looking at things analytically and doing equity research and there is some intersection between those and quant finance. 
 
 ## 2. Career Goals
 
 *In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
-
-*Delete these instructions and write 100-150 words*
+- Analyst/Trader/Researcher at hedge fund or analyst at real estate private equity firm
+- Hedge fund or PE firm
+- Stocks/Equities, maybe M&A
+- In one year, secure internship role in at least Middle Market Bank or at hedge fund.
+- In 5 years, graduate and pursue a role in one of the fields I mentioned above in either Dallas, Houston, or New York
+- In 10 years, I hope to have gone back for MBA as well as made the decision to either branch off and start on practice/firm or to climb the ranks to partner
 
 ## 3. What I Hope to Learn from This Program
 
 *In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
+- I want to be comfortable with python and its trading applicability
+- Be able to perform quant analysis and figure out when the best time to buy or sell is (with crypto or stocks), also to create an algorithm that isnt a copy paste 
+- Jupyter Notebook
+- I want to be able to connect with professionals who work at hedge funds in Dallas
+- It sets me up with good talking points in interviews and with knowledge to perform well at some of the jobs I may be in down the line.
 
-*Delete these instructions and write 100-150 words*
 
 ## 4. Current Technical Skills
 
 *In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
+- Slightly above beginner Python and Java
+- Intermediate Bloomberg, no background in SQL or using python for data analysis.
+- No background using R or other things like GARCH models beyond defining what they are.
+- Intermediate Comps, DCF, not much in terms of quant modeling
+- no experience
+- *beginner in Jupyter Notebooks and Github
 
-*Delete these instructions and write 75-100 words*
 
 ## 5. Development Plan & Program Goals
 
 *In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
-
-*Delete these instructions and write 100-150 words*
+- Using Python for useful practices in finance, data analysis, or for trading purposes
+- By the end of the semester project I hope to be able to have done enough work during the semester to approach the project without dependency on much outside help
+- Avg 1 hour a day (7 hrs a week)
+- Pretty much anything/everything on the notion.
+- being able to use python for data analysis and in my other finance endeavors. I also want to be able to comfortably assert when it is a good or a bad time to buy or sell a stock or crypto. 
 
 ---
 
