@@ -42,7 +42,7 @@ for i in range(1, len(stock_prices)):
 else:
     print(signals)
 
-    q4 stock_prices = [100.5, 102.3, 99.8, 103.7, 101.2]
+    q4: stock_prices = [100.5, 102.3, 99.8, 103.7, 101.2]
 def trading_strat(stock_prices):
     last_price = stock_prices[-1]
     daily_return = (stock_prices[-1] - stock_prices[-2]) / stock_prices[-2]
@@ -62,15 +62,15 @@ def trading_strat(stock_prices):
     return signals
 print(trading_strat(stock_prices))
 
-q5: q5 class MomentumStrategy:
-    def init(self, stock_prices):
+class MomentumStrategy:
+    def __init__(self, stock_prices):
         self.stock_prices = stock_prices
         self.cash = 10000.0
         self.shares = 0
         self.signals = []
         self.trades = []
 
-    def run(self):
+def run(self):
         for i in range(1, len(self.stock_prices)):
             daily_return = (self.stock_prices[i] - self.stock_prices[i - 1]) / self.stock_prices[i - 1]
             if daily_return >= 0.02:
@@ -80,7 +80,7 @@ q5: q5 class MomentumStrategy:
             else:
                 self.signals.append("Hold")
 
-        for i, signal in enumerate(self.signals):
+            for i, signal in enumerate(self.signals):
             price = self.stock_prices[i + 1]
             if signal == "Buy":
                 cost = 10 * price
@@ -95,12 +95,12 @@ q5: q5 class MomentumStrategy:
                     self.trades.append((price, "Sell", self.shares))
                     self.shares = 0
 
-    def summary(self):
+        def summary(self):
         print("Momentum Strategy Summary:")
-
+        
         signals_str = '[' + ','.join(f"'{s}'" for s in self.signals) + ']'
         print(f"Signals: {signals_str}")
-
+        
         print(f"Trades: {self.trades}")
 
         print(f"Final Cash: {self.cash:.1f}")
@@ -109,11 +109,12 @@ q5: q5 class MomentumStrategy:
         print(f"Total Portfolio Value: ${total_value:.1f}")
 
 
-if name == "main":
+if __name__ == "__main__":
     prices = [100.5, 102.3, 99.8, 103.7, 101.2]
     strategy = MomentumStrategy(prices)
     strategy.run()
     strategy.summary()
+
 
 
 ## Submission Guidelines
